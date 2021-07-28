@@ -1,0 +1,21 @@
+<application>
+  <component name="TipsStore">
+    <option name="globalFirstStartUp" value="false" />
+    <entry projectPath="$APPLICATION_CONFIG_DIR$/demo/IdeaLearningProject" startUpFlag="FIRST" />
+    <entry projectPath="D:/idea/IdeaProject/JDBCDemo" startUpFlag="FIRST" />
+    <entry projectPath="D:/idea/IdeaProject/atguigu-blog" startUpFlag="FIRST" />
+    <entry projectPath="D:/idea/IdeaProject/execldo" startUpFlag="FIRST" />
+    <entry projectPath="D:/idea/IdeaProject/execldoing" startUpFlag="FIRST" />
+    <entry projectPath="D:/idea/IdeaProject/gma" startUpFlag="FIRST" />
+    <entry projectPath="D:/idea/IdeaProject/gmall" startUpFlag="FIRST" />
+    <entry projectPath="D:/idea/IdeaProject/gmall-parent" startUpFlag="FIRST" />
+    <entry projectPath="D:/idea/IdeaProject/guli-parent" startUpFlag="FIRST" />
+    <entry projectPath="D:/idea/IdeaProject/hutubao" startUpFlag="FIRST" />
+    <entry projectPath="D:/idea/IdeaProject/interview" startUpFlag="FIRST" />
+    <entry projectPath="D:/idea/IdeaProject/jiudian" startUpFlag="FIRST" />
+    <entry projectPath="D:/idea/IdeaProject/multiple-datasource" startUpFlag="FIRST" />
+    <entry projectPath="D:/idea/IdeaProject/spring-boot-stater-multiple-datasource" startUpFlag="FIRST" />
+    <entry projectPath="D:/idea/IdeaProject/testjuc" startUpFlag="FIRST" />
+    <entry projectPath="D:/idea/RiskProject/risk-ark-manager" startUpFlag="FIRST" />
+  </component>
+</application>
