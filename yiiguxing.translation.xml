@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="matching File Array" />
       <item value="descending Sort By Last Modified" />
       <item value="Period" />
       <item value="UNINITIALIZED" />
@@ -47,8 +48,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="46" />
-        <entry key="ENGLISH" value="47" />
+        <entry key="CHINESE" value="47" />
+        <entry key="ENGLISH" value="48" />
       </map>
     </option>
   </component>
