@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="descending Sort By Last Modified" />
       <item value="Period" />
       <item value="UNINITIALIZED" />
       <item value="EMBEDDED" />
@@ -16,7 +17,6 @@
       <item value="cap Total Size" />
       <item value="java: You aren't using a compiler supported by lombok, so lombok will not work and has been disabled. Your processor is: com.sun.proxy.Proxy24 Lombok supports: sunapple javac 1.6, ECJ" />
       <item value="Command Go to Declaration or Usages missed 3 time" />
-      <item value="descending Sort By Last Modified" />
       <item value="get Files In Period" />
       <item value="file Name Pattern Str" />
       <item value="There is no getter for property named 'id' in 'class com.baomidou.mybatisplus.core.conditions.query.QueryWrapper'" />
@@ -47,8 +47,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="46" />
+        <entry key="CHINESE" value="46" />
+        <entry key="ENGLISH" value="47" />
       </map>
     </option>
   </component>
