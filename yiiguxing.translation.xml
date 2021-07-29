@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Period" />
+      <item value="UNINITIALIZED" />
+      <item value="EMBEDDED" />
       <item value="aim for 32 days, except in case of hourly rollover" />
       <item value="for a live appender periodsElapsed is expected to be 1" />
       <item value="periods Elapsed" />
@@ -44,8 +47,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="42" />
-        <entry key="ENGLISH" value="43" />
+        <entry key="CHINESE" value="45" />
+        <entry key="ENGLISH" value="46" />
       </map>
     </option>
   </component>
