@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Delayed Work Queue" />
+      <item value="NANOSECONDS" />
+      <item value="SCHEDULED EXECUTOR POOL SIZE" />
+      <item value="Apparently ScheduledThreadPoolExecutor has limitation where a task cannot be submitted from within a running task. ThreadPoolExecutor does not have this limitation. This causes tests failures in SocketReceiverTest.testDispatchEventForEnabledLevel and ServerSocketReceiverFunctionalTest.testLogEventFromClient." />
       <item value="compute Elapsed Periods Since Last Clean" />
       <item value="Deleting" />
       <item value="cap Total Size" />
