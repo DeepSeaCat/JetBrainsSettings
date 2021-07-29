@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Pattern" />
+      <item value="UNBOUNDED TOTAL SIZE CAP" />
       <item value="keep 30 days' worth of history capped at 3GB total size" />
       <item value="matching File Array" />
       <item value="descending Sort By Last Modified" />
@@ -49,8 +51,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="48" />
-        <entry key="ENGLISH" value="48" />
+        <entry key="CHINESE" value="49" />
+        <entry key="ENGLISH" value="50" />
       </map>
     </option>
   </component>
