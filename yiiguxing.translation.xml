@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Problem creating zip: Execution exception (and the archive is probably corrupt but I could not delete it)" />
+      <item value="and the archive is probably corrupt but I could not delete it)" />
       <item value="ASYNC" />
       <item value="WARNING: The guard check MUST be the first statement in the" />
       <item value="The roll-over check must precede actual writing. This is the only correct behavior for time driven triggers. We need to synchronize on triggeringPolicy so that only one rollover occurs at a time" />
@@ -49,13 +51,11 @@
       <item value="obtain" />
       <item value="Tell the subclass to refresh the internal bean factory." />
       <item value="Prepare this context for refreshing." />
-      <item value="Updates were rejected because the remote contains work that you do" />
-      <item value="继续" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="52" />
-        <entry key="ENGLISH" value="53" />
+        <entry key="CHINESE" value="54" />
+        <entry key="ENGLISH" value="55" />
       </map>
     </option>
   </component>
