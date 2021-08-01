@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="process" />
       <item value="java: You aren't using a compiler supported by lombok, so lombok will not work and has been disabled. Your processor is: com.sun.proxy.Proxy24 Lombok supports: sunapple javac 1.6, ECJ" />
       <item value="Command Go to Declaration or Usages missed 3 time" />
       <item value="descending Sort By Last Modified" />
@@ -34,8 +35,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="36" />
-        <entry key="ENGLISH" value="37" />
+        <entry key="CHINESE" value="37" />
+        <entry key="ENGLISH" value="38" />
       </map>
     </option>
   </component>
