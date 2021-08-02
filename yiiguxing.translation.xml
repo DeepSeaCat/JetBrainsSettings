@@ -1,65 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Problem creating zip: Execution exception (and the archive is probably corrupt but I could not delete it)" />
-      <item value="and the archive is probably corrupt but I could not delete it)" />
-      <item value="ASYNC" />
-      <item value="WARNING: The guard check MUST be the first statement in the" />
-      <item value="The roll-over check must precede actual writing. This is the only correct behavior for time driven triggers. We need to synchronize on triggeringPolicy so that only one rollover occurs at a time" />
-      <item value="Pattern" />
-      <item value="UNBOUNDED TOTAL SIZE CAP" />
-      <item value="keep 30 days' worth of history capped at 3GB total size" />
-      <item value="matching File Array" />
-      <item value="descending Sort By Last Modified" />
-      <item value="Period" />
-      <item value="UNINITIALIZED" />
-      <item value="EMBEDDED" />
-      <item value="aim for 32 days, except in case of hourly rollover" />
-      <item value="for a live appender periodsElapsed is expected to be 1" />
-      <item value="periods Elapsed" />
-      <item value="Delayed Work Queue" />
-      <item value="NANOSECONDS" />
-      <item value="SCHEDULED EXECUTOR POOL SIZE" />
-      <item value="Apparently ScheduledThreadPoolExecutor has limitation where a task cannot be submitted from within a running task. ThreadPoolExecutor does not have this limitation. This causes tests failures in SocketReceiverTest.testDispatchEventForEnabledLevel and ServerSocketReceiverFunctionalTest.testLogEventFromClient." />
-      <item value="compute Elapsed Periods Since Last Clean" />
-      <item value="Deleting" />
-      <item value="cap Total Size" />
-      <item value="java: You aren't using a compiler supported by lombok, so lombok will not work and has been disabled. Your processor is: com.sun.proxy.Proxy24 Lombok supports: sunapple javac 1.6, ECJ" />
-      <item value="Command Go to Declaration or Usages missed 3 time" />
-      <item value="get Files In Period" />
-      <item value="file Name Pattern Str" />
-      <item value="There is no getter for property named 'id' in 'class com.baomidou.mybatisplus.core.conditions.query.QueryWrapper'" />
-      <item value="statement" />
-      <item value="refund" />
-      <item value="Contact" />
-      <item value="get Object Volatile" />
-      <item value="unchecked" />
-      <item value="Volatile access methods are used for table elements as well as elements of in-progress next table while resizing. All uses of the tab arguments must be null checked by callers. All callers also paranoically precheck that tab's length is not zero (or an equivalent check), thus ensuring that any index argument taking the form of a hash value anded with (length - 1) is a valid index. Note that, to be correct wrt arbitrary concurrency errors by users, these checks must operate on local variables, which accounts for some odd-looking inline assignments below. Note that calls to setTabAt always occur within locked regions, and so in principle require only release ordering, not full volatile semantics, but are currently coded as volatile writes to be conservative." />
-      <item value="TREEIFY THRESHOLD" />
-      <item value="treeify Bin" />
-      <item value="DEFAULTCAPACITY EMPTY ELEMENTDATA" />
-      <item value="Root Bean Definition" />
-      <item value="get Merged Local Bean Definition" />
-      <item value="Trigger initialization of all non-lazy singleton beans..." />
-      <item value="Iterate over a copy to allow for init methods which in turn register new bean definitions." />
-      <item value="(such as a PropertyPlaceholderConfigurer bean) registered any before:" />
-      <item value="Register a default embedded value resolver if no bean post-processor" />
-      <item value="Initialize conversion service for this context." />
-      <item value="Instantiate all remaining (non-lazy-init) singletons." />
-      <item value="Allows post-processing of the bean factory in context subclasses." />
-      <item value="Prepare the bean factory for use in this context." />
-      <item value="obtain" />
-      <item value="Tell the subclass to refresh the internal bean factory." />
-      <item value="Prepare this context for refreshing." />
+      <item value="Could not resolve placeholder" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="54" />
-        <entry key="ENGLISH" value="55" />
+        <entry key="ENGLISH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1627209511208" />
+    <option name="lastTrimTime" value="1627894323375" />
   </component>
 </application>
