@@ -30,6 +30,10 @@
           <option name="url" value="https://gitee.com/huang-huajian/cloud-e-office.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/fsdy/wx-zytanalysis.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\idea\IdeaProject" />
