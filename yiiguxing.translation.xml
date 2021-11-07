@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Log Event Handler" />
       <item value="handle Events With Worker Pool" />
       <item value="Disruptor" />
       <item value="Disruptor Mgt" />
